@@ -160,4 +160,4 @@ npm --version     # Should be v8+
 
 ---
 
-*Qualibytes IT Academy Pvt. Limited — Prayagraj, Uttar Pradesh, India*
+*Qualibytes IT Academy Pvt. Limited*
